@@ -11,6 +11,7 @@ export const baseOptions: BaseLayoutProps = {
   nav: {
     title: 'Religion Of God',
     url: '/docs',
+    
   },
   links: [
     {
