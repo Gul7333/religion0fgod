@@ -2,9 +2,11 @@ import { createPreset } from 'fumadocs-ui/tailwind-plugin';
  
 /** @type {import('tailwindcss').Config} */
 export default {
+  darkMode: 'class',
   presets: [
     createPreset({
       preset: 'ocean',
+      
       
     }),
   ],
@@ -17,3 +19,4 @@ export default {
     './mdx-components.tsx',
   ],
 };
+
