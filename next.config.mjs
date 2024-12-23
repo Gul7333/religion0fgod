@@ -9,7 +9,6 @@ const config = {
   images: {
     unoptimized: true,  // Required for static export, as image optimization is not available
   },
-  basePath: "/religion0fgod"
   
   
 
