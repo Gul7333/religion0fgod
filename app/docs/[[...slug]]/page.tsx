@@ -24,6 +24,7 @@ export default async function Page(props: {
       <DocsBody>
         <MDX components={{ ...defaultMdxComponents }} />
       </DocsBody>
+
     </DocsPage>
   );
 }

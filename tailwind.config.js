@@ -6,8 +6,6 @@ export default {
   presets: [
     createPreset({
       preset: 'ocean',
-      
-      
     }),
   ],
   content: [
